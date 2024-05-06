@@ -1,6 +1,6 @@
-<H3> Name: Priyanka A </H3>
+<H3>Name: Priyanka A </H3>
 <H3>Register No: 212222230113</H3>
-<H3> Experiment 1</H3>
+<H3>Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
